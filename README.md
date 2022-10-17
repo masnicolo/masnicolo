@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Nicolo and welcome to my GitHub profile. 
+### Hi there 👋, my name is Nicolo and welcome to my GitHub profile!
 
 <!--
 **masnicolo/masnicolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
