@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, my name is Nicolo and welcome to my GitHub profile. 
 
 <!--
 **masnicolo/masnicolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### About me
+I am a Data Science graduate from Codeclan. I have experience as a Data Analyst in the FinTech industry across domains of finance and sustainability. I am skilled in Python, Rstudio, SQL, AWS and Big Data. 
+
+Feel free to connect and send me a message on [LinkedIn](https://www.linkedin.com/in/nicolo-mastronardi/), I love chatting anything data!  
