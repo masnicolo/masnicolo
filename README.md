@@ -15,6 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### About me
-I am a Data Science graduate from Codeclan. I have experience as a Data Analyst in the FinTech industry across domains of finance and sustainability. I am skilled in Python, Rstudio, SQL, Tableau, AWS and Big Data. 
+🔌 Passionate Data Engineering Consultant specialising in transforming raw data into actionable insights. Proficient in Python, PySpark, DataBricks, AWS, SQL, and Airflow to architect robust data solutions that empower businesses. 🚀
+
+📊 Data-Driven Insights: I've successfully applied my skills in fintech, banking, and sustainability sectors, helping organizations harness the power of their data to make informed decisions. My background in sustainable development and sustainable finance (ESG) adds a unique layer to my approach, allowing me to uncover meaningful insights at the intersection of data and responsible practices.
+
+🌍 Multilingual and Adaptable: Beyond technical skills, I have knowledge of five foreign languages, enhancing my ability to collaborate with diverse teams and stakeholders. My adaptability and curiosity drive me to explore new horizons and stay ahead in the rapidly evolving data landscape.
+
 
 Feel free to connect and send me a message on [LinkedIn](https://www.linkedin.com/in/nicolo-mastronardi/), I love chatting anything data!  
